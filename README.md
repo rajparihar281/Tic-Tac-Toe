@@ -129,8 +129,5 @@ Want to make this app your own? Try these modifications:
 - **Game Board** - Interactive 3x3 grid
 - **Action Buttons** - New game and reset functionality
 
-
-
-**Happy coding! 🚀**
-
-*If you're new to Flutter, this project is a great starting point to understand state management, user interaction, and basic game logic. Have fun building and customizing!*
+![](screenshots/image_1.jpg)![](screenshots/image_2.jpg)
+![](screenshots/image_3.jpg)![](screenshots/image_4.jpg)
